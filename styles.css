@@ -1,0 +1,55 @@
+body {
+    background-color: #e6f7ff; /* Light Blue */
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366; /* Dark Blue */
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+section {
+    padding: 20px;
+}
+
+#services {
+    background-color: #ffcccc; /* Light Red */
+}
+
+#contact {
+    background-color: #990000; /* Dark Red */
+    color: #fff;
+}
+
+footer {
+    background-color: #003366; /* Dark Blue */
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
