@@ -36,11 +36,14 @@ section {
 }
 
 #services {
-    background-color: #ffcccc; /* Light Red */
+    background-color: #990000; /* Dark Red */
+
 }
 
 #contact {
-    background-color: #990000; /* Dark Red */
+    
+background-color: #ffcccc; /* Light Red */
+    
     color: #fff;
 }
 
