@@ -93,5 +93,31 @@
 #contact a {
     color: #66ccff; /* Light Blue */
 }
+/* Add these styles to your existing styles.css file */
+
+/* Welcome section styles */
+#welcome-section {
+    text-align: center;
+    padding: 50px;
+    background-color: #f2f2f2; /* Light Gray */
+}
+
+#logo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #003366; /* Dark Blue */
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 
 /* Add the rest of your styles as needed */
