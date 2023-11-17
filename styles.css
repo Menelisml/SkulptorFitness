@@ -82,20 +82,18 @@
     margin: 0 auto;
 }
 
-/* Contact section styles */
 #contact {
     text-align: center;
-    padding: 20px;
+    padding: 40px 20px; /* Adjusted padding to create space */
     background-color: #333;
     color: white;
+    margin-bottom: 60px; /* Added margin to prevent overlap with the fixed footer */
 }
 
 #contact a {
     color: #66ccff; /* Light Blue */
 }
-/* Add these styles to your existing styles.css file */
 
-/* Welcome section styles */
 #welcome-section {
     text-align: center;
     padding: 50px;
