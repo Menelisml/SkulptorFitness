@@ -51,7 +51,8 @@
     border-radius: 10px;
     color: white;
 }
-
+.personal-training p { text-align:center;
+}
 /* About Us section styles */
 #about {
     padding: 20px;
