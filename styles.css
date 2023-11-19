@@ -52,6 +52,7 @@
     color: white;
 }
 .personal-training p { text-align:center;
+                      float: right;
 }
 /* About Us section styles */
 #about {
